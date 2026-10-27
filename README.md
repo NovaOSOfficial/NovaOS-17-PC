@@ -1,10 +1,10 @@
-# NovaOS 17 PC 🏔️
+# Nova 17 PC 🏔️
 
 **An open-source project bringing Android 17 to desktop and laptop computers.**
 
-## About NovaOS
+## About NovaPC
 
-NovaOS 17 PC is an independent operating system project based on Android 17 (AOSP), designed to bring the original Android experience to x86_64 computers.
+NovaPC 17 PC is an independent operating system project based on Android 17 (AOSP), designed to bring the original Android experience to x86_64 computers.
 
 The project focuses on adapting Android for PC hardware while preserving its native interface, functionality, and overall user experience.
 
