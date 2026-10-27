@@ -35,4 +35,12 @@ The project's original code is intended to be available under the Apache License
 
 ---
 
-**NovaOS 17 PC — Android for PCs.**
+**NovaOS 17 PC — Android for PCs.** 🧪 **We Need Testers!**
+
+Nova PC 17 is still experimental and under active development. We are looking for real users to test the system and help us improve it.
+
+You can help by testing it in VirtualBox or QEMU, reporting bugs, sharing hardware compatibility results, and suggesting improvements.
+
+⚠️ Since the system is experimental, we recommend using a virtual machine or a dedicated test device instead of your main computer.
+
+💬 Join our GitHub Discussions to share your experience, ask questions, and help make Nova PC 17 better!
